@@ -1,1 +1,1 @@
-# Sound experiment 
+Expérimentation sonore en Three.js durant le cours de William Mapan aux Gobelins, BDDI 2017.
