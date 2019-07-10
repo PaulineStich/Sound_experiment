@@ -1,8 +1,8 @@
-# Expérimentation sonore en Three.js
+# Expérimentation sonore
 
-Expérimentation sonore en Three.js durant le cours de William Mapan aux Gobelins, BDDI 2017.js durant le cours de William Mapan aux Gobelins, BDDI 2017.
+Expérimentation sonore en Three.js durant le cours de William Mapan aux Gobelins, BDDI novembre 2017 - .
 
-[GitHub Preview](/particles/src/assets/img/github-preview.png)
+![GitHub Preview](/src/assets/img/github-preview.png)
 
 ### Dev mode
 
